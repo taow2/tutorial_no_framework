@@ -15,6 +15,10 @@ class ComposerStaticInit7f7ea92b5bdf50f4f2228bf656206e8d
         array (
             'Psr\\Log\\' => 8,
         ),
+        'H' => 
+        array (
+            'Http\\' => 5,
+        ),
         'E' => 
         array (
             'Example\\' => 8,
@@ -29,6 +33,10 @@ class ComposerStaticInit7f7ea92b5bdf50f4f2228bf656206e8d
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/src',
+        ),
+        'Http\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/patricklouys/http/src',
         ),
         'Example\\' => 
         array (
