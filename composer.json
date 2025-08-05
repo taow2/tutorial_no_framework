@@ -1,0 +1,20 @@
+{
+    "description": "no framework pratice",
+    "keywords": ["key1", "key2"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taow",
+            "email": "xxx@gmail.com",
+            "role": ""
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Example\\": "src/"
+        }
+    }
+}
